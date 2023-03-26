@@ -1,0 +1,38 @@
+body{
+    background-image: url('../images/nice.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.overlay{
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(244, 244, 244, 0.79);
+}
+
+.description{
+    position: absolute;
+    top: 30%;
+    margin: auto;
+    padding: 2em;
+}
+.description h1{
+    color: rgba(0, 0, 0, 0.5) ;
+}
+.description p{
+    color: #000000;
+    font-size: 20px;
+}
+.description button{
+    border:1px solid #000000;
+    background: rgba(0, 0, 0, 0.5);
+    color: #000000;
+}
+
+.description h3{
+    color: #000000;
+}
