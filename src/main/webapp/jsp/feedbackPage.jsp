@@ -27,7 +27,7 @@
                     <div class="row no-gutters">
                         <div class="col-md-6 d-flex align-items-stretch">
                             <div class="contact-wrap w-100 p-md-5 p-4 py-5">
-                                <form id="contactForm" name="contactForm" class="contactForm">
+                                <form id="contactForm" class="contactForm">
                                     <div class="row">
                                         <div class="col-md-12">
                                             <div class="form-group">
