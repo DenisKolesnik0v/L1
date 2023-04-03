@@ -108,7 +108,7 @@
 
 <footer class="text-center text-white fixed-bottom">
     <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.8);">
-        © 2020 Kakie to nadpisi:
+        © 2004 - 2023 Kakie to nadpisi:
         <a class="text-white" href="https://github.com/DenisKolesnik0v?tab=repositories">My github</a>
     </div>
 </footer>
